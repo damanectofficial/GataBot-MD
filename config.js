@@ -7,13 +7,13 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['593993684821', 'Hidayat Store My Id 💖🐈', true],
-  ['50495086382', 'Hidayat Store My Id 2 💖🐈', true],
-  ['51993042301', 'Hidayat Store My Id 3 💖🐈', true],
-  ['5492914469417', 'Hidayat Store My Id 4 💖🐈', true],
-  ['573238484181', 'Hidayat Store My Id 5 💖🐈', true],
-  ['573208089136', 'Hidayat Store My Id 6 💖🐈', true],
-  ['593959425714', 'Hidayat Store My Id | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true],
+  ['593993684821', 'Hidayat Store - Marketing Agency 💖🐈', true],
+  ['50495086382', 'Hidayat Store - Marketing Agency 2 💖🐈', true],
+  ['51993042301', 'Hidayat Store - Marketing Agency 3 💖🐈', true],
+  ['5492914469417', 'Hidayat Store - Marketing Agency 4 💖🐈', true],
+  ['573238484181', 'Hidayat Store - Marketing Agency 5 💖🐈', true],
+  ['573208089136', 'Hidayat Store - Marketing Agency 6 💖🐈', true],
+  ['593959425714', 'Hidayat Store My Id | Digital Marketing 💖🐈', true],
   ['5492266466080'],
   ['50495086382'],
   ['584166662765'],
@@ -34,7 +34,7 @@ global.prems = ['528451003894'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = id  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = id  //Idioma de GataBot, Ejemplo: id | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -107,7 +107,7 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Hidayat Store|Marketing Agency🐈'
+global.packname = 'Hidayat Store - Marketing Agency 🐈'
 global.author = 'Hidayat Store My Id'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -118,40 +118,40 @@ global.author = 'Hidayat Store My Id'
 global.vs = '1.3.7'
 global.version = vs
 
-global.gt = 'Hidayat Store My Id'
+global.gt = 'Hidayat Store - Marketing Agency'
 global.gatabot = gt
 
-global.yt = '#'
+global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
 global.youtube = yt
 
-global.ig = '#'
+global.ig = 'https://www.instagram.com/gata_dios'
 global.gatadiosig = ig
 
-global.md = '#'
+global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.gatabot = md
 
-global.nna = '#'
+global.nna = 'https://chat.whatsapp.com/HQxfuaDFPBQ7KvuesQoU7G'
 global.nnagrupo = nna //UPDATE GATABOT
 
-global.nn = '#'
+global.nn = 'https://chat.whatsapp.com/CnsAvjHUhMw1D8y0OcfkIY'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = '#'
+global.nnn = 'https://chat.whatsapp.com/CdiITbXO2kdGLWBVAdqfCS'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = '#'
+global.nnnt = 'https://chat.whatsapp.com/Fd1wp2c3KCG7bHybanoXbR'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = '#'
+global.nnntt = 'https://chat.whatsapp.com/G0A7GMhlyAZ2b7JVEoz1Zy'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = '#'
+global.nnnttt = 'https://chat.whatsapp.com/JHTDXPLoW29I1rxGYnLmmH'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.paypal = '083872273467'
-global.donar = Dana
+global.paypal = 'https://paypal.me/OficialGD'
+global.donar = paypal
 
-global.asistencia = 'Wa.me/6283872273467' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -185,8 +185,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'Hidayat Store - Marketing Agency'
+global.igfg = 'Hidayat Store - Marketing Agency'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
